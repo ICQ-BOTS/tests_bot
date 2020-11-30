@@ -1,0 +1,13 @@
+__pycache__
+__pycache__/**
+*.pyc
+statistics
+statistics/**
+config.ini
+logging.ini
+_random_sources
+
+.style.yapf
+
+for_tarantool
+env
