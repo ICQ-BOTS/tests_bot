@@ -1,4 +1,4 @@
-# ICQTestsBot
+# TestsBot
 
 [Тестики](https://icq.im/testik_bot)
 
